@@ -1,4 +1,5 @@
 from .defaults import DefaultDataset, ConcatDataset
+from .machining import MachiningDataset
 from .builder import build_dataset
 from .utils import point_collate_fn, collate_fn
 
