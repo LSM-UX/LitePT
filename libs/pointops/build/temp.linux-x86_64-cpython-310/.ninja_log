@@ -1,0 +1,20 @@
+# ninja log v7
+1	16111	1786341194471492415	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda.o	c1014795f8d0b5e9
+22	15190	1786341591665086315	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/ball_query/ball_query_cuda.o	ec73b97cb4499d12
+21	16795	1786341591664086283	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/attention/attention_cuda.o	e5dabb0150f4a7a
+21	28265	1786341591664086283	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/attention/attention_cuda_kernel.o	392f37d52e808384
+20	28727	1786341591663086250	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda_kernel.o	ddc73ecab0c4c16b
+16796	32556	1786341608439630632	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda.o	fafaf7a32f5204c0
+15192	43705	1786341606835578884	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/ball_query/ball_query_cuda_kernel.o	f3637b0efa261ae6
+28729	44219	1786341620372013632	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda.o	1053172493dd7f29
+28269	58153	1786341619911998931	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda_kernel.o	bd1baba3e721654f
+43707	60266	1786341635350489606	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/knn_query/knn_query_cuda.o	c8ef6f8ac9569fc
+32557	62110	1786341624200135782	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda_kernel.o	c8eae898147fbf73
+44220	74778	1786341635864505849	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/knn_query/knn_query_cuda_kernel.o	779d40731f9c5b7e
+60268	76066	1786341651911009814	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/random_ball_query/random_ball_query_cuda.o	70e9c2875933e69b
+74781	91050	1786341666424460652	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda.o	e74413f8d78628eb
+58155	91092	1786341649797943783	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/pointops_api.o	40db841da997d50b
+62112	91777	1786341653755067355	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/random_ball_query/random_ball_query_cuda_kernel.o	90c10021c45cb3ce
+76067	106255	1786341667710500378	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda_kernel.o	d4731d85ff4595d7
+91051	107485	1786341682693960590	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda.o	ae1e2a698fe36b1d
+91095	120761	1786341682737961935	/data/xuzg/LSM/LitePT/libs/pointops/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda_kernel.o	11187013e9877786
